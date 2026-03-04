@@ -5,7 +5,8 @@
 ---
 
 <a name="english-version"></a>
-🇺🇸 English Version
+## 🇺🇸 English Version
+
 This repository contains the backend for the DA Notes app. It uses the Django REST Framework (DRF) to provide a robust API for the Angular frontend.
 
 ###Features
