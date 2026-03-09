@@ -28,7 +28,7 @@ source venv/bin/activate
 
 2. **Install dependencies:**
 ```bash
-pip install django djangorestframework django-cors-headers
+pip install requirements.txt
 ```
 
 3. **Run database migrations:**
@@ -82,7 +82,7 @@ source venv/bin/activate
 
 2. **Abhängigkeiten installieren:**
 ```bash
-pip install django djangorestframework django-cors-headers
+pip install requirements.txt
 ```
 
 3. **Datenbank-Migrationen durchführen:**
