@@ -33,7 +33,6 @@ pip install requirements.txt
 
 3. **Run database migrations:**
 ```bash
-python manage.py makemigrations
 python manage.py migrate
 ```
 
@@ -87,7 +86,6 @@ pip install requirements.txt
 
 3. **Datenbank-Migrationen durchführen:**
 ```bash
-python manage.py makemigrations
 python manage.py migrate
 ```
 
